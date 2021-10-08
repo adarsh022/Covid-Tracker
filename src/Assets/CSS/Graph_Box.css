@@ -1,0 +1,9 @@
+.Graph_Box {
+  height: auto;
+}
+.graph-box {
+  gap: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

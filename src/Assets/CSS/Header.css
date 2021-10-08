@@ -1,0 +1,24 @@
+.Header_Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Header_Main .Header_Cards {
+  display: flex;
+  justify-content: space-evenly;
+  min-width: 100%;
+}
+
+.Header_Main .Selector {
+  display: flex;
+  margin: 20px auto;
+}
+
+.Header_Main .Selector select {
+  margin: 0 5px;
+}
+
+.Header_Main .Selector button {
+  margin: 0 5px;
+}
